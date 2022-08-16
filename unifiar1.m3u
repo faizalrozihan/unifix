@@ -8603,3 +8603,96 @@ https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenhash=Nq
 https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=&checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Luar" ,EX(017)|LookSport 2
 https://stream1.1616.ro:1945/looksport2/livestream/chunklist_w1538106197.m3u8
+
+#SPORTS#
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://imgur.com/gallery/ceU4rq0.png",Juragan Tarung Channel
+https://archive.org/download/MurotalMR/055.mp3
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://imgur.com/gallery/ceU4rq0.png",Dukung Kami Dengan Subscribe
+https://archive.org/download/MurotalMR/055.mp3
+#EXTINF:-1 group-title="SPORTS",USEE SPORTS 
+https://dik.si/SEuseeSport1?shareext.m3u8
+https://etus.link/useesport?shareext.m3u8
+#EXTINF:-1 group-title="SPORTS",USEE SPORTS 2
+https://dik.si/SEuseeSPorts_2?shareext.m3u8
+https://etus.link/useesports2?shareext.m3u8
+#EXTINF:-1 tvg-logo="https://i.gifer.com/33LA.gif" group-title="NASIONAL",  O CHANNEL
+https://iptv.mwafa.net/vidio/206/index.m3u8?token=1999
+#EXTINF:-1 group-title="SPORTS",FOX SPORTS BRAZIL
+http://rec2.distv.net:80/aurora/123456/152
+#EXTINF:-1 group-title="SPORTS",FOX SPORTS 2 BRAZIL
+http://rec2.distv.net:80/aurora/123456/153
+#EXTINF:-1 group-title="SPORTS",AO VIVO
+http://rec2.distv.net:80/aurora/123456/141
+#EXTINF:-1 group-title="SPORTS",ESPN
+http://rec2.distv.net:80/aurora/123456/142
+#EXTINF:-1 group-title="SPORTS",ESPN 2
+http://rec2.distv.net:80/aurora/123456/143
+#EXTINF:-1 group-title="SPORTS",ESPN BRAZIL
+http://rec2.distv.net:80/aurora/123456/144
+#EXTINF:-1 group-title="SPORTS",ESPN EXTRA
+http://rec2.distv.net:80/aurora/123456/145
+#EXTINF:-1 tvg-logo="jusApell"group-title="SPORTS",Fight Sports
+https://dik.si/SEfsport
+#EXTINF:-1 tvg-logo=""group-title="SPORTS",CCTV 5
+http://112.15.230.55/PLTV/88888888/224/3221230734/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="SPORTS",CCTV 5+
+http://117.148.179.136/PLTV/88888888/224/3221231459/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/TVRISportHD.png/450px-TVRISportHD.png" group-title="SPORTS",TVRI SPORT
+http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="SPORTS",SETANTA SPORT 2
+http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:-1 group-title="SPORTS",UFC 2
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1 group-title="SPORTS",DENS PLAY
+http://210.210.155.35:80/x6bnqe/s/s101/live.m3u8?app_type=mobile&userid=2m4n6yjvyen-&tkn=1U7A426J3DXLYES3U4V7KSIJCJXYR1YF&chname=DensPlay
+#EXTINF:-1 group-title="SPORTS",STADIUM
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1 group-title="SPORTS",BAND SPORTS
+http://rec2.distv.net:80/aurora/123456/119
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://imgur.com/gallery/ceU4rq0.png",REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 group-title="SPORTS",BT SPORT 2
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/1118?checkedby:iptvcat.com
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-512.png",ONE GOLF HD
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF:-1 group-title="SPORTS",UNIFI SPORTS
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
+#EXTINF:-1 group-title="SPORTS",UNIFI SPORTS 2
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://kamiselaluada.com/img/dubaisports1.png",DUBAI SPORTS 1
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://kamiselaluada.com/img/dubaisports1.png",DUBAI SPORTS 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://kamiselaluada.com/img/dubaisports1.png",DUBAI SPORTS 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="SPORTS",TV DUBAI
+http://61.19.242.134/feed/202105171329/LC15/index.m3u8
+#EXTINF:-1 group-title="SPORTS",SPORTV
+http://rec2.distv.net:80/aurora/123456/188
+#EXTINF:-1 group-title="SPORTS",SPORTV 2
+http://rec2.distv.net:80/aurora/123456/189
+#EXTINF:-1 group-title="SPORTS",GOLF
+http://playlist.urfan.web.id/dr9445/h/h10/01.m3u8
+#EXTINF:-1 group-title="SPORTS",SPORTV 3
+http://rec2.distv.net:80/aurora/123456/190
+#EXTINF:-1 grup-title="SPORTS",FIGHT SPORTS
+http://playlist.urfan.web.id/dr9445/h/h05/01.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://kamiselaluada.com/img/adsports1.png",ABU DHABI SPORTS 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://kamiselaluada.com/img/adsports2.png",ABU DHABI SPORTS 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://kamiselaluada.com/img/adsports3.png",ABU DHABI SPORTS 3
+http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="SPORTS",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 group-title="SPORTS",DD Sport
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+#EXTINF:-1 group-title="SPORTS",Golf Network
+http://203.162.235.41:16924/
+#EXTINF:-1 group-title="SPORTS",DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8?checkedby
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-us.png",TNT SPORT WORLD
+https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/B2R8y0c/dr.jpg",Dubai Racing
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
