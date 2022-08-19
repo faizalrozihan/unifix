@@ -6,19 +6,19 @@ https://v-t-e-r.github.io/Umbrella/Playlist/Ch/101.m3u8
 #EXTINF:-1 group-title="RTM" ch-number="102" tvg-id="102" tvg-chno="102" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/102.png",TV2 HD
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/102.m3u8
 
-#EXTINF:-1 group-title="MUFAKH TV" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",TV3
+#EXTINF:-1 group-title="Media Prima" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",TV3
 https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv3|Referer=https://www.dailymotion.com
 
-#EXTINF:-1 group-title="MUFAKH TV" ch-number="105" tvg-id="105" tvg-chno="105" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",Drama Sangat
+#EXTINF:-1 group-title="Media Prima" ch-number="105" tvg-id="105" tvg-chno="105" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",Drama Sangat
 https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=dramasangat|Referer=https://www.dailymotion.com
 
-#EXTINF:-1 group-title="MUFAKH TV" ch-number="107" tvg-id="107" tvg-chno="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/147.png",DidikTV KPM
+#EXTINF:-1 group-title="Media Prima" ch-number="107" tvg-id="107" tvg-chno="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/147.png",DidikTV KPM
 https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=didiktv|Referer=https://www.dailymotion.com
 
-#EXTINF:-1 group-title="MUFAKH TV" ch-number="108" tvg-id="108" tvg-chno="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/148.png",8TV
+#EXTINF:-1 group-title="Media Prima" ch-number="108" tvg-id="108" tvg-chno="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/148.png",8TV
 https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=8tv|Referer=https://www.dailymotion.com
 
-#EXTINF:-1 group-title="MUFAKH TV" ch-number="109" tvg-id="109" tvg-chno="109" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/149.png",TV9
+#EXTINF:-1 group-title="Media Prima" ch-number="109" tvg-id="109" tvg-chno="109" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/149.png",TV9
 https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv9|Referer=https://www.dailymotion.com
 
 #EXTINF:-1 group-title="RTM" ch-number="110" tvg-id="110" tvg-chno="110" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/146.png",OKEY
@@ -29,7 +29,7 @@ https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Sukanrtm.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0a4fb03a7f0b51c6264b70203ebcde10&key=abf3210c7882b3838b66e256d3d72840
-#EXTINF:-1 tvg-id="112" tvg-logo="https://user-images.githubusercontent.com/85995579/128817749-0901f1fa-a6e5-4c6f-9207-c72365d9225d.png" group-title="MUFAKH TV",Awesome TV
+#EXTINF:-1 tvg-id="112" tvg-logo="https://user-images.githubusercontent.com/85995579/128817749-0901f1fa-a6e5-4c6f-9207-c72365d9225d.png" group-title="Awesome Media Sdn Bhd",Awesome TV
 https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_primary.mpd
 
 #EXTINF:-1 group-title="RTM" ch-number="113" tvg-id="113" tvg-chno="113" tvg-logo="https://i.ibb.co/vHcWdsP/image.png",TV6
@@ -37,13 +37,13 @@ https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TV6rtm.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3939ff52ae5e4d0e244414bb10682510&key=c24f329834fb054fd9e1a5d51d5a5306
-#EXTINF:-1 tvg-id="114" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png" group-title="MUFAKH TV",Al-Hijrah
+#EXTINF:-1 tvg-id="114" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png" group-title="AlHijrah Media Corporation",Al-Hijrah
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
 
 #EXTINF:-1 group-title="MUFAKH TV" ch-number="116" tvg-id="116" tvg-chno="116" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/SUKE_TV_Logo.png/revision/latest/scale-to-width-down/300",Suke TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=vSTsGlwkOAE
 
-#EXTINF:-1 group-title="MUFAKH TV" ch-number="120" tvg-id="120" tvg-chno="120" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/120.png",GO Shop MYTV
+#EXTINF:-1 group-title="Astro" ch-number="120" tvg-id="120" tvg-chno="120" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/120.png",GO Shop MYTV
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/GShopMY.m3u8
 
 #EXTINF:-1 group-title="News" ch-number="121" tvg-id="121" tvg-chno="121" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/502.png",Bernama
