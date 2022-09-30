@@ -725,7 +725,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
 #EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="ENTERTAINMENT",ASTRO RIA
-https://aqfadtv.xyz/ria.mpd
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
@@ -1513,7 +1513,7 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http://app.iptv8k.org/mobile//GetLiveAdv.aspx?version=android&area=&type=%E7%9B%B4%E6%92%AD&name=RIA%28B%29+Astro&stream=true
-https://aqfadtv.xyz/ria.mpd
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
 
 #EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png",104 Astro Ria (serve1)
 http://172.96.160.37:9138/stream/live/c20629.m3u8?idstream=ria
@@ -5832,19 +5832,19 @@ http://linears-playback.astro.com.my/vsg/41WoJYBBbfPO62bh4Szi-2ob0jrHAD8bc5muLDm
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
 #EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="MuZu | Astro",ASTRO RIA
-https://linears-playback.astro.com.my/vsg/41VasBA0S_jVCP2gSZ4ad7KSbSOCBVcj9PzkzHwZMJhd8=b95v/dash-wv/jitp-linearwm/1004/default_primary.mpd
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
 #EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="MuZu | Astro",ASTRO RIA
 #http://linears-playback.astro.com.my/vsg/211BweEEIFlXWPeAxqrqRs0EJW1WmSHiyCfopOW3k2qto=l0Om/dash-wv/jitp-linearwm/1004/default_primary.mpd
-https://live.astradamy.com/astro/ria/index.mpd
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
 #EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="MuZu | Astro",ASTRO RIA
 #http://linears-playback.astro.com.my/vsg/211BweEEIFlXWPeAxqrqRs0EJW1WmSHiyCfopOW3k2qto=l0Om/dash-wv/jitp-linearwm/1004/default_primary.mpd
-https://live.astradamy.com/astro/ria/index.mpd
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
