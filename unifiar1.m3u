@@ -851,10 +851,8 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_primary.mpd
 #EXTINF:-1 tvg-id="201" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Vaanavil_v2.png" group-title="ENTERTAINMENT",ASTRO VAANAVIL
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_primary.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=39e518b58aff65d51ddd05d1597b1e10&key=e0fb4b6bf638b44756b6363ffb3db659
 #EXTINF:-1 tvg-id="202" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Vinmeen_HD_v1.png" group-title="MuZu | India",ASTRO VINMEEN
-http://linears-playback.astro.com.my/vsgN/41eMhI4QyeFWjMWsv49tqwktudMxhCP--LI4MmSvGnhDw=vmV3/dash-wv/jitp-linearwm/2105/default_primary.mpd
+http://vinmeentv.livebox.co.in/vinmeentvhls/live.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cb6c0c34cd3b22efd444edfd21393c10&key=84750873ded43774b06b43b67717a708
@@ -1655,12 +1653,7 @@ https://agsplayback01.astro.com.my/CH2/master_MYTVGOSHOP4_03.m3u8
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroVinmeenHD" ch-number="202" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png",202 Astro Vinmeen HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=39e518b58aff65d51ddd05d1597b1e10&key=e0fb4b6bf638b44756b6363ffb3db659
-https://linears-playback.astro.com.my/vsgN/41eMhI4QyeFWjMWsv49tqwklFNPCMb1JOeN31m9kkMLSM=5i-A/dash-wv/jitp-linearwm/2105/default_ott.mpd
-
-#EXTINF:-1 tvg-id="AstroVinmeenHD" ch-number="202" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png",202 Astro Vinmeen HD Bekup
-https://aqfadtv.xyz/vinmeen.m3u8
+http://vinmeentv.livebox.co.in/vinmeentvhls/live.m3u8
 
 #EXTINF:-1 tvg-id="AstroVellithirai" ch-number="203" group-title="Astro" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroVellithirai.png",203 Astro Vellithirai
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -5902,11 +5895,8 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_primary.mpd
 #EXTINF:-1 tvg-id="201" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Vaanavil_v2.png" group-title="MuZu | India",ASTRO VAANAVIL
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_primary.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=39e518b58aff65d51ddd05d1597b1e10&key=e0fb4b6bf638b44756b6363ffb3db659
 #EXTINF:-1 tvg-id="202" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Vinmeen_HD_v1.png" group-title="MuZu | India",ASTRO VINMEEN
-#http://linears-playback.astro.com.my/vsg/211BweEEIFlXWPeAxqrqRs0EJW1WmSHiyCfopOW3k2qto=l0Om/dash-wv/jitp-linearwm/2105/default_primary.mpd
-https://live.astradamy.com/astro/vinmeen/index.mpd
+http://vinmeentv.livebox.co.in/vinmeentvhls/live.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cb6c0c34cd3b22efd444edfd21393c10&key=84750873ded43774b06b43b67717a708
