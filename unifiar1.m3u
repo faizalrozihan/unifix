@@ -701,13 +701,13 @@ https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d556
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroSupersport2" group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",SuperSportHD 2
-https://aqfadtv.xyz/supersport2.m3u8
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/115616
 
 #EXTINF:-1 tvg-id="AstroSupersport3" group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",SuperSportHD 3
-https://aqfadtv.xyz/supersport3.m3u8
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/115617
 
 #EXTINF:-1 tvg-id="AstroSupersport4" group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",SuperSportHD 4
-https://aqfadtv.xyz/supersport4.m3u8
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/115618
 
 #EXTINF:-1 tvg-id="AstroSupersport5" group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/AstroSuperSport5.png/revision/latest?cb=20211002110810",SuperSportHD 5 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -717,7 +717,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_primary.mpd
 #EXTINF:-1 tvg-id="AstroSuperSport5HD" group-title="SPORTS" tvg-logo="https://i.postimg.cc/QxTnfTBd/bein-sports-max.png",Bein Max
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6748
 
-#EXTINF:-1 tvg-id="AstroArenaHD" group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/801_300.png",Astro Arena
+#EXTINF:-1 tvg-id="AstroArena" group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/801_300.png",Astro Arena
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40c958ab268862f44ca7169a0a634710&key=d83ccdb2a5a66a9653009dab9490e617
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
