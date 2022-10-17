@@ -2090,7 +2090,7 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_prim
 
 #EXTINF:-1 tvg-id="AstroSupersport2" group-title="Astro" ch-number="812" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png",812 Astro SuperSport 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2104
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=369ee7aba1e1504f85366b899d81ef10&key=299fbf0f774920858ff4fabf0afbe6b7
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1602/default_primary.mpd
 
 
