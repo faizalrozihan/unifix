@@ -859,7 +859,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_primary.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_primary.mpd
 
 #EXTINF:-1 tvg-id="202" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Vinmeen_HD_v1.png" group-title="MuZu | India",ASTRO VINMEEN
-http://vinmeentv.livebox.co.in/vinmeentvhls/live.m3u8
+https://stream.zeehanzgadget.com/vinmeen
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cb6c0c34cd3b22efd444edfd21393c10&key=84750873ded43774b06b43b67717a708
@@ -875,11 +875,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=e43b89a409027b38c471e4088cf76210&key=2ded2169b89a80a1179f501fa3b6c081
 #EXTINF:-1 tvg-id="214" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Adithiya_v1.png" group-title="MuZu | India",ADITHYA
 https://linearjitp-playback.astro.com.my/dash-wv/linear/915/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=19e79967a0f1ead8bb7bc453bbc3d110&key=592722a6819d1226921e68d689262497
-#EXTINF:-1 tvg-id="213" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Chutti_TV_v1.png" group-title="MuZu | India",CHUTTI TV
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1110/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=18fe29fdda1b4ca306b4d8f08786fd10&key=47f6fa3ca0462021aa1c0c09253ece58
@@ -1621,7 +1616,7 @@ https://agsplayback01.astro.com.my/CH2/master_MYTVGOSHOP4_03.m3u8
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroVinmeenHD" ch-number="202" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png",202 Astro Vinmeen HD
-http://vinmeentv.livebox.co.in/vinmeentvhls/live.m3u8
+https://stream.zeehanzgadget.com/vinmeen
 
 #EXTINF:-1 tvg-id="AstroVellithirai" ch-number="203" group-title="Astro" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroVellithirai.png",203 Astro Vellithirai
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -1638,11 +1633,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40636fba89de95f6d4b5ef63f4f3b510&key=9515d6b00e269cbef3ab6454a96ae63b
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5011/default_ott.mpd
-
-#EXTINF:-1 tvg-id="ChuttiTV" ch-number="213" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/51_144.png",213 Chutti TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=19e79967a0f1ead8bb7bc453bbc3d110&key=592722a6819d1226921e68d689262497
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1110/default_ott.mpd
 
 #EXTINF:-1 tvg-id="Adithya" ch-number="214" group-title="Astro" tvg-logo="https://user-images.githubusercontent.com/85995579/130947065-c352cfdd-f4eb-47e3-aec3-806e76cec321.png",214 Adithiya
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2147,11 +2137,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5013/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/408
 https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7d2ba38cc488e535fa42059493357c10&key=c48de9b1683be561fa63ab547391975d
-#EXTINF:-1 tvg-id="817" tvg-logo="https://raw.githubusercontent.com/kpsboy/LOGO-KPSBOY/main/ASTRO/bein2.png" group-title="Astro",beIN SPORTS 2 HD
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5013/default_ott.mpd
 
 #EXTINF:-1 tvg-id="beINSports3" group-title="Astro" ch-number="819" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/Bein-sports-3-hero.png/revision/latest?cb=20170624060242",819 beIN Sports 3 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -5763,22 +5748,6 @@ https://freelive.inwstream.com:1936/freelive-edge/pptvhd/playlist.m3u8
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
-#EXTINF:-1 tvg-id="107" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="MuZu | Astro",ASTRO WARNA
-http://linears-playback.astro.com.my/vsg/41WoJYBBbfPO62bh4Szi-2ob0jrHAD8bc5muLDm-pCVXQ=Dw2f/dash-wv/jitp-linearwm/2402/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
-#EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="MuZu | Astro",ASTRO RIA
-https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
-#EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="MuZu | Astro",ASTRO RIA
-#http://linears-playback.astro.com.my/vsg/211BweEEIFlXWPeAxqrqRs0EJW1WmSHiyCfopOW3k2qto=l0Om/dash-wv/jitp-linearwm/1004/default_primary.mpd
-https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
 #EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="MuZu | Astro",ASTRO RIA
 #http://linears-playback.astro.com.my/vsg/211BweEEIFlXWPeAxqrqRs0EJW1WmSHiyCfopOW3k2qto=l0Om/dash-wv/jitp-linearwm/1004/default_primary.mpd
@@ -5839,7 +5808,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_primary.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_primary.mpd
 
 #EXTINF:-1 tvg-id="202" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Vinmeen_HD_v1.png" group-title="MuZu | India",ASTRO VINMEEN
-http://vinmeentv.livebox.co.in/vinmeentvhls/live.m3u8
+https://stream.zeehanzgadget.com/vinmeen
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cb6c0c34cd3b22efd444edfd21393c10&key=84750873ded43774b06b43b67717a708
@@ -5855,11 +5824,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=e43b89a409027b38c471e4088cf76210&key=2ded2169b89a80a1179f501fa3b6c081
 #EXTINF:-1 tvg-id="214" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Adithiya_v1.png" group-title="MuZu | India",ADITHYA
 https://linearjitp-playback.astro.com.my/dash-wv/linear/915/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=19e79967a0f1ead8bb7bc453bbc3d110&key=592722a6819d1226921e68d689262497
-#EXTINF:-1 tvg-id="213" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Chutti_TV_v1.png" group-title="MuZu | India",CHUTTI TV
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1110/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=18fe29fdda1b4ca306b4d8f08786fd10&key=47f6fa3ca0462021aa1c0c09253ece58
@@ -6357,9 +6321,11 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_primary.mpd
 #EXTINF:-1 group-title="MuZu | myFreeview" tvg-logo="https://mzulhairyhusin.vercel.app/api/raw/?path=/Awesome_TV_Malaysia.png" tvg-id="123" ,AWESOME TV HD
 https://link.zozotv.xyz:443/live/1234/1234/352.ts
 
-#EXTINF:-1 tvg-id="RMTK03" tvg-name="TV Okey" group-title="MuZu | myFreeview" tvg-logo="https://iili.io/1NqeAg.png",TV Okey FHD https://rtmlive01tv.secureswiftcontent.com/rtmchannel/02-1080.mpd
+#EXTINF:-1 tvg-id="146" tvg-name="TV Okey" group-title="MuZu | myFreeview" tvg-logo="https://iili.io/1NqeAg.png",TV Okey FHD 
+https://rtmlive01tv.secureswiftcontent.com/rtmchannel/02-1080.mpd
  
-#EXTINF:-1 tvg-id="148" tvg-name="8TV" group-title="MuZu | myFreeview" tvg-logo="https://iili.io/1NqvDJ.png",8TV CH148 https://mediahomes.github.io/assets/my/ch_8tv.m3u8
+#EXTINF:-1 tvg-id="148" tvg-name="8TV" group-title="MuZu | myFreeview" tvg-logo="https://iili.io/1NqvDJ.png",8TV CH148 
+https://mediahomes.github.io/assets/my/ch_8tv.m3u8
     
 #EXTINF:-1 group-title="MuZu | Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Unifi-Sports_1.png/revision/latest?cb=20210712111848" tvg-id="701" ,unifi Sports 1 HD
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
@@ -6554,12 +6520,6 @@ http://urtv.cc:80/449042/449042/6768
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=505f7a8803b542e78941a6bfe40d2910&key=166626a62cf1b356c298b58842c60661
 #EXTINF:-1 tvg-id="221" tvg-logo="https://img2.pngio.com/stars-cartoon-png-download-512512-free-transparent-star-vijay-star-vijay-png-900_520.jpg" group-title="LIVE:INDIA",Star Vijay HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=19e79967a0f1ead8bb7bc453bbc3d110&key=592722a6819d1226921e68d689262497
-#EXTINF:-1 tvg-id="213" ch-number="213" group-title="LIVE:INDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/43/Kushi_TV_logo.jpg",Chutti TV HD
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1110/default_ott.mpd
-
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png" group-title="LIVE:INDIA" tvg-id="ZeeTamil.in" tvg-name="ZeeTamil.in", Zee Tamil
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -7856,28 +7816,15 @@ https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/b9c8b190e98b
 #EXTINF:-1 tvg-id="800" tvg-logo="http://linear-poster.astro.com.my/prod/logo/eGG_v1.png" group-title="LIVE:SPORT",eGG HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2602/default_ott.mpd
 
-#EXTINF:-1 tvg-id="800" tvg-logo="http://linear-poster.astro.com.my/prod/logo/eGG_v1.png" group-title="LIVE:SPORT",eGG NETWORK HD FHD BACKUP
-http://iptv12k.com:35461/live/80301070602/456776/2565.ts
-
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40c958ab268862f44ca7169a0a634710&key=d83ccdb2a5a66a9653009dab9490e617
 #EXTINF:-1 tvg-id="801" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png" group-title="LIVE:SPORT",ASTRO ARENA
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
 
-#EXTINF:-1 tvg-id="801" ch-number="AstroArena" group-title="LIVE:SPORT" ch-number="801" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",ASTRO ARENA HD FHD BACKUP 
-http://iptv12k.com:35461/live/80301070602/456776/688.ts
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a35c43ff90d667ba1285ad0ae34ae810&key=99191e99138dc6aca5ed5febe3a817a4
 #EXTINF:-1 tvg-id="802" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-title="LIVE:SPORT",ASTRO ARENA 2
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
-
-#EXTINF:-1 tvg-id="802" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" group-title="LIVE:SPORT",ASTRO ARENA 2 HD FHD BACKUP
-http://iptv12k.com:35461/live/80301070602/456776/965.ts
-
-
-
 
 #EXTINF: -1 tvg-id="AstroSuperSport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSZbiQAAjiVaqQvljUKT7MT8C6b-8DDxJDaA&usqp=CAU" group-title="LIVE:SPORT ", Astro Supersport 1 HD FHD
 http://iptv12k.com:35461/live/80301070602/456776/972.ts
@@ -7900,8 +7847,6 @@ https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142715
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=782f32d9501ac50dfd783671ade95210&key=9690dcf2368b1664680a8099125ccca9
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_ott.mpd
-#EXTINF: -1 tvg-id="WWEBACKUP" tvg-logo="https://m3u-editor.com/storage/channel-logos/0e560cb0-edd5-11eb-b11c-6f670e934a5b/1910647/343954881.png" group-title="LIVE:SPORT", WWE HD FHD BACKUP
-http://iptv12k.com:35461/live/80301070602/456776/652.ts
 
 
 
